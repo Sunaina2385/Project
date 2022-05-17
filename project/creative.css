@@ -23,8 +23,8 @@ main h2:hover,main h3:hover{text-decoration:underline;
 /**aside **/   
 aside{width:20%;display:inline-block;vertical-align:top;}
 aside div img{height:300px;width:350px;}
-aside div{width:350px; ;border:2px solid black;padding:5px;background-color:#f1f1f1;}
-aside div h3{color:red;}
+aside div{width:350px; ;border:2px solid rgb(49, 48, 48);padding:5px;background-color:#f1f1f1;}
+aside div h3{color:rgb(206, 124, 124);}
 
 /**navigation**/
 #nav a button{height:50px;width:150px;background-color:pink;color:black;font-weight:bold;}
